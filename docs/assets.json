@@ -1,0 +1,40 @@
+{
+  "created": "2026-10-19",
+  "assets": [
+    {
+      "id": "park-line",
+      "path": "public/images/park-line.webp",
+      "generator": "Built-in image_gen; not CLI",
+      "prompt": "Use case: photorealistic-natural. Create one landscape architectural photograph/render, 1536x1024 or wider, premium real-estate editorial quality, absolutely no text, logos, watermarks, frames or collage. Fictional contemporary residential district in a temperate European city. Realistic precise architectural detail, understated warm color grade, natural materials, mature planting, human scale, not fantastical. Wide cinematic hero view of a large contemporary residential development: multiple 18-25-storey slender apartment towers with terracotta brick and warm ivory stone facades, deep-set tall windows, stepped 8-storey podiums around a lush tree-lined car-free courtyard, calm clear pale blue sky. Eye-level view from landscaped public walk through trees, tall buildings dominant on right two thirds, foreground greenery and walkway left, warm early evening sunlight, soft shadows, rich but muted greenery. Sophisticated architecture publication photograph, horizontal wide-angle composition, not aerial.",
+      "source": "Generated for this fictional demonstration; no third-party stock photography."
+    },
+    {
+      "id": "river-quarter",
+      "path": "public/images/river-quarter.webp",
+      "generator": "Built-in image_gen; not CLI",
+      "prompt": "Use case: photorealistic-natural. Create one landscape architectural photograph/render, 1536x1024 or wider, premium real-estate editorial quality, absolutely no text, logos, watermarks, frames or collage. Fictional contemporary residential district in a temperate European city. Realistic precise architectural detail, understated warm color grade, natural materials, mature planting, human scale, not fantastical. Residential riverside district with two elegant 22-storey light limestone towers with rounded corners and dark bronze window frames, medium-rise brick courtyard buildings, landscaped river embankment in foreground with grasses and waterside walkway. Water reflects pale blue sky, warm sunny afternoon, expansive horizontal architectural view.",
+      "source": "Generated for this fictional demonstration; no third-party stock photography."
+    },
+    {
+      "id": "height",
+      "path": "public/images/height.webp",
+      "generator": "Built-in image_gen; not CLI",
+      "prompt": "Use case: photorealistic-natural. Create one landscape architectural photograph/render, 1536x1024 or wider, premium real-estate editorial quality, absolutely no text, logos, watermarks, frames or collage. Fictional contemporary residential district in a temperate European city. Realistic precise architectural detail, understated warm color grade, natural materials, mature planting, human scale, not fantastical. Dramatic low-angle architectural photograph of three slim contemporary 30-storey apartment towers, warm gray concrete and dark graphite grid facades, copper details, clear muted blue sky, tree canopy along lower edges, exact geometric lines and sculptural rooflines, premium urban residential architecture.",
+      "source": "Generated for this fictional demonstration; no third-party stock photography."
+    },
+    {
+      "id": "city-gardens",
+      "path": "public/images/city-gardens.webp",
+      "generator": "Built-in image_gen; not CLI",
+      "prompt": "Use case: photorealistic-natural. Create one landscape architectural photograph/render, 1536x1024 or wider, premium real-estate editorial quality, absolutely no text, logos, watermarks, frames or collage. Fictional contemporary residential district in a temperate European city. Realistic precise architectural detail, understated warm color grade, natural materials, mature planting, human scale, not fantastical. Inviting sunny green courtyard of a contemporary residential complex, cream brick 9-14-storey buildings with broad rectangular window grid and subtle sage accents, lush layered landscape, birches, long pale stone walking paths and timber seating, small distant residents, warm summer morning, residential architecture occupies upper two thirds.",
+      "source": "Generated for this fictional demonstration; no third-party stock photography."
+    },
+    {
+      "id": "courtyard",
+      "path": "public/images/courtyard.webp",
+      "generator": "Built-in image_gen; not CLI",
+      "prompt": "Use case: photorealistic-natural. Create one landscape architectural photograph/render, 1536x1024 or wider, premium real-estate editorial quality, absolutely no text, logos, watermarks, frames or collage. Fictional contemporary residential district in a temperate European city. Realistic precise architectural detail, understated warm color grade, natural materials, mature planting, human scale, not fantastical. Large landscaped car-free courtyard framed by warm terracotta brick and pale stone residential apartment buildings 12-20 storeys high, photographed from pedestrian eye level, very lush perennial ornamental grasses, mature trees, boardwalk and natural stone paving, sculptural curved timber bench, a couple of small distant people walking, glowing afternoon light, beautiful large courtyard landscape in foreground, natural and lived-in.",
+      "source": "Generated for this fictional demonstration; no third-party stock photography."
+    }
+  ]
+}
